@@ -1,6 +1,6 @@
 # ZXUno_Altera
 
-ZXUno port for Altera Boards.
+ZXUno port for Altera Boards for SRAM FPGAs.
 Thank to McLeod and Antonio Villena from ZXUno Group.
 
 Thanks to UTO for his SMARTROOM -->  https://github.com/Utodev/smartROM
